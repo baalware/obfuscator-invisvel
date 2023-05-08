@@ -15,5 +15,4 @@ cores = [
 while True:
     cor = random.choice(cores)
     print(cor + " 1 0 1 BAALWARE TEST - BAALWARE TEST - BAALWARE TEST - BAALWARE TEST - BAALWARE TEST - BAALWARE TEST - BAALWARE TEST - BAALWARE TEST 0 1 0 1")
-    # Aguarda um curto intervalo de tempo
     time.sleep(0.0)
