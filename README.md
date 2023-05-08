@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84687049/236742387-1df2c493-d4ad-4ca4-8535-c74f8a47057d.gif" alt="exemplo">
+</p>
+
+<h1 align="center">
+  exemplo
+</h1>
+
 ## Criptografia de arquivos
 Este script em Python permite que você criptografe arquivos usando um método simples de substituição de caracteres repetidos. O arquivo criptografado resultante é salvo em uma pasta chamada "baalware obfs" com o mesmo nome do arquivo original, mas com a extensão "criptografado.py".
 
